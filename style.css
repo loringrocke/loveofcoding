@@ -1,0 +1,23 @@
+body{
+	text-align:center;
+}
+
+p {
+	width: 300px;
+}
+
+h1{
+	font-size: 24px;
+	font-family: sans-serif;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 400px;
+}
+
+figcaption {
+	display: block;
+	font-weight: bold;
+}
